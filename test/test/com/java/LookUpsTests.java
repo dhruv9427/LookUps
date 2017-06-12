@@ -15,4 +15,6 @@ public class LookUpsTests {
     private static void assertEquals(int i, String s) {
     }
 
+    //Use assertEquals and assertThat
+
 }
